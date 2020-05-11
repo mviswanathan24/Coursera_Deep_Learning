@@ -1,1 +1,1 @@
-# Coursera_Deep_Learning
+# Repository to maintain Coursera Deep Learning assignments
